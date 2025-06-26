@@ -23,7 +23,7 @@
 
 
 <br>
-⚠<b><u>Disclaimer:</u></b> <b><a href="https://ghhcommunity.github.io/KCT-HACKBAR/GHHC-HACKBAR.apk">KCT-HACKBAR</a></b> is a Modified Version of <b>Anon HackBar V1.4</b> & it is built for pentesting and learning purposes only. We never support or provoke any unethical, harmful and illegal activity. The developers will not be responsible for any misuse of the tool.
+⚠<b><u>Disclaimer:</u></b> <b><a href="https://ucenhaxor07.github.io/KCT-HACKBAR/KCT-HACKBAR.apk">KCT-HACKBAR</a></b> is a Modified Version of <b>Anon HackBar V1.4</b> & it is built for pentesting and learning purposes only. We never support or provoke any unethical, harmful and illegal activity. The developers will not be responsible for any misuse of the tool.
 <br>
 <br>
 
@@ -36,7 +36,7 @@
 ## About The Project
 
 <br>
-<b><a href="https://ghhcommunity.github.io/GHHC-HACKBAR/GHHC-HACKBAR.apk">KCT-HACKBAR</a></b> is a Web Penetration tool built for Android Devices where you can perform basic SQL Injection, Local File Inclusion(LFI) flaws, Cross Site Scripting, Shell Uploading, Defacement & many more.
+<b><a href="https://ucenhaxor07.github.io/KCT-HACKBAR/KCT-HACKBAR.apk">KCT-HACKBAR</a></b> is a Web Penetration tool built for Android Devices where you can perform basic SQL Injection, Local File Inclusion(LFI) flaws, Cross Site Scripting, Shell Uploading, Defacement & many more.
 It is a Modified Version of Anon HackBar which was developed by MasterJeo and got Modified by <b><a href="https://www.facebook.com/UcenGntng/">Xkii1337</a></> of <b><a href="https://www.facebook.com/profile.php?id=100077462882943/">Karawang Cyber Team(KCT)</a></b>.
 <br>
 
